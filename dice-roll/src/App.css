@@ -1,0 +1,14 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.play-now{
+  background-color: black;
+  color:white;
+  padding: 10px;
+  width:200px;
+  height:50px;
+  border-radius: 5%;
+
+}
